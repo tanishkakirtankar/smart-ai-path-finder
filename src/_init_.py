@@ -1,0 +1,1 @@
+# AI Smart Path Finder source package
