@@ -121,7 +121,7 @@ The project uses only Python standard libraries.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart-ai-path-finder.git
+git clone https://github.com/tanishkakirtankar/smart-ai-path-finder.git
 ```
 
 Move into the project directory:
