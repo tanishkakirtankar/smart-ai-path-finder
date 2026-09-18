@@ -18,8 +18,8 @@ def run_algorithm(algorithm, grid):
         path_length = len(path) - 1
         path_found = "Yes"
    else:
-    path_length = float("inf")
-    path_found = "No"
+        path_length = float("inf")
+        path_found = "No"
 
     return {
         "path": path,
